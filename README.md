@@ -47,4 +47,4 @@ no packages published
 
 ### Live Website
 
-[Visite Music Player Sitegit ](https://react-music-player-cxd54mfea-nunsinee.vercel.app/)
+[Visite Music Player Website ](https://react-music-player-cxd54mfea-nunsinee.vercel.app/)
