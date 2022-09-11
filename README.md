@@ -2,11 +2,13 @@
 
 React-music-player 2 is an e-commerce website made with Html5, React, Javascript and SASS.
 
-![semester project screen short](https://raw.githubusercontent.com/nunsinee/react-music-player/main/assets/images/screenShort_music_player.jpg)
+![semester project screen short](https://github.com/nunsinee/react-music-player/main/src/assets/images/screenShort_music_player.jpg)
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Run your project locally
+
+Run react-scripts start
 
 ## Available Scripts
 
@@ -46,7 +48,3 @@ no packages published
 ### Live Website
 
 [Visite Music Player Sitegit ](https://react-music-player-cxd54mfea-nunsinee.vercel.app/)
-
-### Run your project locally
-
-Run react-scripts start
