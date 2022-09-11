@@ -1,0 +1,48 @@
+.song-container {
+	min-height: 60vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+
+	img {
+		width: 20%;
+		border-radius: 50%;
+	}
+
+	h2 {
+		padding: 3rem 1rem 1rem 1rem;
+	}
+	h3 {
+		font-size: 1rem;
+	}
+
+	h1,
+	h2,
+	h3 {
+		color: rgb(54, 54, 54);
+	}
+}
+
+@keyframes rotate {
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+.rotateSong {
+	animation: rotate 20s linear forwards infinite;
+	border: solid 3px rgb(182, 246, 216);
+	transition: transform 0.5s ease;
+}
+
+@media screen and (max-width: 768px) {
+	.song-container {
+		img {
+			width: 50%;
+		}
+	}
+}
