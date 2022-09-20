@@ -1,5 +1,7 @@
 # react-music-player
 
+## This project follow online course by https://developedbyed.com/
+
 React-music-player 2 is an e-commerce website made with Html5, React, Javascript and SASS.
 
 ![semester project screen short](https://raw.githubusercontent.com/nunsinee/react-music-player/main/src/assets/images/screenShort_music_player.jpg)
